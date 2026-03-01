@@ -15,7 +15,7 @@ export default function Navbar() {
   const { setTheme } = useTheme();
 
   return (
-    <section className="flex justify-between container mx-auto px-4 mt-4">
+    <section className="flex justify-between container mx-auto mt-4">
       <div>
         <h1>Proj</h1>
       </div>
